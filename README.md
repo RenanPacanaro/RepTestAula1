@@ -1,6 +1,5 @@
-# RepTestAula1
-Repositorio teste para a primeira aula de github da faculdade.
+# meu-primeiro-repo.
+Meu repositório da faculdade
 
-Estou alterando no remoto
-Joao, juca, jorge, jina, jussara, julio, janaina, jamelão, jacinto
-Estou alterando no local
+estou alterando no remoto
+estou alterando local
