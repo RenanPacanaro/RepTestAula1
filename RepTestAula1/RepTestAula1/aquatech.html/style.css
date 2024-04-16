@@ -42,6 +42,7 @@
  .banner .container p{
     font-size: 36px;
     font-weight: bold;
+    width: 25%;
 }
  .banner .container p span{
     font-weight: bold;    
@@ -64,19 +65,63 @@
     display: flex;
     justify-content: space-between;
  }
- .rooter {
+ .footer {
     background-color: aquamarine;
     height: 100px;
  }
- .rooter .container {
+ .footer .container {
     justify-content: center;
     align-items: center;
     height: 100%;
  }
- .rooter .container p {
+ .footer .container p {
     font-weight: bold;
     font-size: 20;
  }
  .logo{
     width: 80px;
+ }
+ .login .container {
+   justify-content: center;
+   background-image: url(imagens/bg-jelly-fish-para_outras_pags.png);
+   background-size: cover;
+   color: black;
+   height: 75vh;
+   align-items: center;
+ }
+ .card {
+   background-color: white;
+   display: flex;
+   flex-direction: column;
+   height: 300px;
+   width: 300px;
+   border-radius: 10%;
+   border: 2px solid slateblue
+ }
+ .card h2 {
+   color: palevioletred;
+ }
+ .campo {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+ }
+ .campo input {
+   width: 200px;
+   padding: 7px 15%;
+   border: 2px solid magenta;
+ }
+ .formulario button {
+   margin-top: 40px;
+   padding: 10px 20px;
+   background-color: magenta;
+   border : none;
+
+ }
+ .agora {
+   font-weight: 800;
+ }
+ .header a{
+   text-decoration: none;
+   color: #e3b062;
  }
